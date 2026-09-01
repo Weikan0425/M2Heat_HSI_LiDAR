@@ -1,0 +1,10 @@
+__pycache__/
+*.DS_Store
+*.py[cod]
+log/*
+!log/reproduction.md
+!log/summary.md
+!log/summary.csv
+*.pt
+*.mat
+*.tif

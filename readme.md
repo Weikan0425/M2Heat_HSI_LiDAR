@@ -1,4 +1,4 @@
-# M2Heat: Towards Interpretable Multimodal Fusion: Heat Conduction Modeling for Hyperspectral and LiDAR Joint Classification
+# M2Heat: Heat Conduction Modeling for Hyperspectral and LiDAR Joint Classification
 
 ## Configuration
 

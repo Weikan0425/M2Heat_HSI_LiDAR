@@ -6,5 +6,4 @@ log/*
 !log/summary.md
 !log/summary.csv
 *.pt
-*.mat
 *.tif
